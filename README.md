@@ -33,9 +33,7 @@
 - Derivative Pricing & Stochastic Modeling
 - Machine Learning & Deep Learning for Finance  
 - Portfolio & Risk Management 
-
-
----
+#
 <!-- This section is a draft for future updates 
 
 
