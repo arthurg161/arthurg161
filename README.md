@@ -1,5 +1,9 @@
 # 💻 Arthur Gondim  
-**`Data Science | Financial Engineering`**  
+**``Data Science | Financial Engineering``**  
+
+
+🚧 **Under Construction** 🚧  
+*This portfolio is currently being developed. Stay tuned for updates!*
 
 ---
 
@@ -20,28 +24,24 @@
   <img align="center" alt="Jupyter" width="21px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </p>
 
-
 #
 ### 🚀 **What I'm Working On**   
 - Researching Crypto Asset Cointegration Model with Automated Binance API Trading
-#
+<br>
 
-### 📚 **What I'm Learning**  
-#### **Financial Engineering**  
-- Financial Markets
-- Financial Data & Econometrics  
-- Derivative Pricing & Stochastic Modeling
-- Machine Learning & Deep Learning for Finance  
-- Portfolio & Risk Management 
-#
+### 🔍 **Projects**  
+- [**Quantifying IBOV Market Index:**](https://github.com/arthurg161/Quantifying-IBOV)
+  A comprehensive statistical analysis of IBOVESPA to understand the behavior of Brazil's primary stock market index.
+  
+- **Asset Classifier via Machine Learning:**
+A machine learning model that integrates price data, technical indicators, fundamental analysis, and sentiment analysis to classify weekly asset performance.
+
+- **Sentiment Analysis NLP Model for Financial News:**
+An NLP model that processes financial news articles and quantifies their sentiment to predict market trends and asset performance.
+
+<br>
+
 <!-- This section is a draft for future updates 
-
-
-
-## 🌟 **Projects**  
-- [**Classificador de Ativos**](https://github.com/yourusername/classificador-de-ativos)  
-  Machine learning model that integrates **price data**, **technical indicators**, **fundamental analysis**, and **sentiment analysis** for weekly asset performance classification.  
-
 - [**IBOV Returns Analysis**](https://github.com/yourusername/ibov-returns-kde)  
   Statistical and KDE-based analysis of IBOVESPA returns compared with a normal distribution.  
 
@@ -50,6 +50,20 @@
 
 ---
 -->
+
+### 📚 **What I'm Learning**  
+#### **Financial Engineering**  @[WQU](https://www.wqu.edu/)
+- Financial Markets
+- Financial Data & Econometrics  
+- Derivative Pricing & Stochastic Modeling
+- Machine Learning & Deep Learning for Finance  
+- Portfolio & Risk Management 
+#
+
+
+
+
+
 
 ### 💡 **Fun Facts About Me**  
 - 🌍 I studied abroad in **Budapest**, fostering a love for diverse cultures and global perspectives.  
