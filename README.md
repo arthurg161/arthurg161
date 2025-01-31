@@ -1,5 +1,6 @@
-# 💻 Arthur Gondim  
+# 💻 Arthur Gondim
 **``Data Science | Financial Engineering``**  
+
 
 
 🚧 **Under Construction** 🚧  
@@ -31,7 +32,7 @@
 
 ### 🔍 **Projects**  
 - [**Quantifying IBOV Market Index:**](https://github.com/arthurg161/Quantifying-IBOV)
-  A comprehensive statistical analysis of IBOVESPA to understand the behavior of Brazil's primary stock market index.
+  Statistical analysis of IBOVESPA to understand the behavior of Brazil's primary stock market index.
   
 - **Asset Classifier via Machine Learning:**
 A machine learning model that integrates price data, technical indicators, fundamental analysis, and sentiment analysis to classify weekly asset performance.
@@ -64,11 +65,11 @@ An NLP model that processes financial news articles and quantifies their sentime
 
 
 
-
 ### 💡 **Fun Facts About Me**  
-- 🌍 I studied abroad in **Budapest**, fostering a love for diverse cultures and global perspectives.  
+- 🌍 I studied abroad in **Budapest** <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" width="17" height="10" alt="Hungary Flag"> where I developed appreciation for different cultures and global perspectives.
 - 🧩 I enjoy solving **optimization problems**, both in code and in life!  
-- 🎨 I believe data visualization is both an art and a science.  
+- 🎨 I believe data visualization is both an art and a science 🔬  
+
 
 ---
 
