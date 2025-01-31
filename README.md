@@ -33,12 +33,14 @@
 ### 🔍 **Projects**  
 - [**Quantifying IBOV Market Index:**](https://github.com/arthurg161/Quantifying-IBOV)
   Statistical analysis of IBOVESPA to understand the behavior of Brazil's primary stock market index.
+
+- [**Sentiment Analysis: NLP Model for Financial News:**](https://github.com/arthurg161/market-sentiment-nlp)
+An NLP model that processes financial news articles and quantifies their sentiment to predict market trends and asset performance.
   
 - **Asset Classifier via Machine Learning:**
 A machine learning model that integrates price data, technical indicators, fundamental analysis, and sentiment analysis to classify weekly asset performance.
 
-- **Sentiment Analysis NLP Model for Financial News:**
-An NLP model that processes financial news articles and quantifies their sentiment to predict market trends and asset performance.
+
 
 <br>
 
