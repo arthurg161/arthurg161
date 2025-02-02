@@ -28,7 +28,7 @@
 
 #
 ### 🚀 **What I'm Working On**   
-- Researching Crypto Asset Cointegration Model with Automated Binance API Trading
+- Crypto Asset Cointegration Model with Automated Binance API Trading
 <br>
 
 ### 🔍 **Projects**  
