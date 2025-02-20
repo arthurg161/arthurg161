@@ -38,7 +38,7 @@
 - [**Sentiment Analysis: NLP Model for Financial News:**](https://github.com/arthurg161/market-sentiment-nlp)
 An NLP model that processes financial news articles and quantifies their sentiment to predict market trends and asset performance.
   
-- **Asset Classifier via Machine Learning:**
+- [**Asset Classifier via Machine Learning:**](https://github.com/arthurg161/Asset-Classifier-ML)
 A machine learning model that integrates price data, technical indicators, fundamental analysis, and sentiment analysis to classify weekly asset performance.
 
 
