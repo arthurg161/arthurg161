@@ -27,6 +27,10 @@
 <br>
 
 ### 🔍 **Projects**  
+
+- [**Heston Model Calibration Using Brazilian Market Options Data:**](https://github.com/arthurg161/LinkedIn/tree/main/VaR_Heston-Model)
+ Calibrating the Heston model to Brazilian options, we derive stochastic volatility parameters, simulate paths via Monte Carlo, and compute VaR for risk insights on index derivatives.
+  
 - [**Quantifying IBOV Market Index:**](https://github.com/arthurg161/Quantifying-IBOV)
   Statistical analysis of IBOVESPA to understand the behavior of Brazil's primary stock market index.
 
