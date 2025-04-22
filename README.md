@@ -1,11 +1,6 @@
 # 💻 Arthur Gondim
 **``Data Science | Financial Engineering``**  
 
-
-
-🚧 **Under Construction** 🚧  
-*This portfolio is currently being developed. Stay tuned for updates!*
-
 ---
 
 ### 🛠️ **Technologies & Tools**  
