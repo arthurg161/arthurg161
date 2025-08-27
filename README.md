@@ -21,18 +21,18 @@
   <img align="center" alt="Jupyter" width="21px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
 </p>
 
-#
-### 🚀 **What I'm Working On**   
-- Crypto Asset Cointegration Model with Automated Binance API Trading
-<br>
+
 
 ### 🔍 **Projects**  
 
 - [**Heston Model Calibration Using Brazilian Market Options Data:**](https://github.com/arthurg161/LinkedIn/tree/main/VaR_Heston-Model)
- Calibrating the Heston model to Brazilian options, we derive stochastic volatility parameters, simulate paths via Monte Carlo, and compute VaR for risk insights on index derivatives.
+Calibrating the Heston model to Brazilian options, we derive stochastic volatility parameters, simulate paths via Monte Carlo, and compute VaR for risk insights on index derivatives.
+  
+- [**Customer Churn Prediction with Machine Learning**](https://github.com/arthurg161/Churn_Prediction/tree/main)
+A ML pipeline that predicts customer churn, benchmarked against a Majority Learner. Combines preprocessing, discretization, and logistic regression to deliver actionable insights for retention strategies.
   
 - [**Quantifying IBOV Market Index:**](https://github.com/arthurg161/Quantifying-IBOV)
-  Statistical analysis of IBOVESPA to understand the behavior of Brazil's primary stock market index.
+Statistical analysis of IBOVESPA to understand the behavior of Brazil's primary stock market index.
 
 - [**Sentiment Analysis: NLP Model for Financial News:**](https://github.com/arthurg161/market-sentiment-nlp)
 An NLP model that processes financial news articles and quantifies their sentiment to predict market trends and asset performance.
@@ -57,17 +57,20 @@ A machine learning model that integrates price data, technical indicators, funda
 ### 📚 **What I'm Learning**  
 #### **Financial Engineering**  @[WQU](https://www.wqu.edu/)
 - Financial Markets
-- Financial Data & Econometrics  
-- Derivative Pricing & Stochastic Modeling
-- Machine Learning & Deep Learning for Finance  
-- Portfolio & Risk Management 
+- Financial Data
+- Financial Econometrics  
+- Derivative Pricing 
+- Stochastic Modeling
+- Machine Learning for Finance
+- Deep Learning for Finance  
+- Portfolio Management
+- Risk Management 
 #
 
 
 
-
-
-### 💡 **Fun Facts About Me**  
+### 💡 **About Me**  
+- 🎓 I hold a Bachelor’s in Control and Automation Engineering, a Master’s in Mechanical Engineering specializing in Welding Automation, and a Postgraduate in Data Science with an emphasis on Financial Markets.
 - 🌍 I studied abroad in **Budapest** <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" width="17" height="10" alt="Hungary Flag"> where I developed appreciation for different cultures and global perspectives.
 - 🧩 I enjoy solving **optimization problems**, both in code and in life!  
 - 🎨 I believe data visualization is both an art and a science 🔬  
